@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/go-gorm/gen,1897,852
+/go-gorm/gen/issues,371,113
+/go-gorm/gen/pulls,160,24
+/go-gorm/gen/commits/master,90,19
+/go-gorm/gen/tree/master/internal,74,35
+/go-gorm/gen/releases,52,27
+/go-gorm/gen/issues/169,42,32
+/go-gorm/gen/tree/master/field,40,30
+/go-gorm/gen/issues/173,35,23
+/go-gorm/gen/tree/master/helper,33,26
