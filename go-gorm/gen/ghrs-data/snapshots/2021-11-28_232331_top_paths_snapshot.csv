@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/go-gorm/gen,1226,579
+/go-gorm/gen/issues,227,57
+/go-gorm/gen/pulls,110,24
+/go-gorm/gen/commits/master,37,9
+/go-gorm/gen/issues/220,36,25
+/go-gorm/gen/releases,35,13
+/go-gorm/gen/pull/228,32,9
+/go-gorm/gen/issues/208,28,15
+/go-gorm/gen/tags,28,7
+/go-gorm/gen/tree/master/tools/gentool,27,21
