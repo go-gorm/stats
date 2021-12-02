@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/go-gorm/dbresolver,247,177
+/go-gorm/dbresolver/issues,29,19
+/go-gorm/dbresolver/blob/master/database.go,11,8
+/go-gorm/dbresolver/blob/master/dbresolver.go,10,9
+/go-gorm/dbresolver/pulls,10,5
+/go-gorm/dbresolver/blob/master/dbresolver_test.go,9,9
+/go-gorm/dbresolver/issues/15,5,5
+/go-gorm/dbresolver/issues/27,5,5
+/go-gorm/dbresolver/stargazers,5,5
+/go-gorm/dbresolver/issues/31,5,3
