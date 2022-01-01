@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/go-gorm/sqlite,245,165
+/go-gorm/sqlite/blob/master/sqlite.go,31,24
+/go-gorm/sqlite/issues,22,9
+/go-gorm/sqlite/blob/master/go.mod,20,18
+/go-gorm/sqlite/search,13,7
+/go-gorm/sqlite/blob/master/migrator.go,11,9
+/go-gorm/sqlite/tags,8,7
+/go-gorm/sqlite/blob/master/sqlite_test.go,7,5
+/go-gorm/sqlite/blob/master/errors.go,6,6
+/go-gorm/sqlite/blob/v1.2.6/sqlite.go,6,5
