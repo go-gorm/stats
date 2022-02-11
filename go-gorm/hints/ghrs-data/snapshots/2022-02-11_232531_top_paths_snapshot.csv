@@ -1,0 +1,10 @@
+url_path,views_total,views_unique
+/go-gorm/hints,42,33
+/go-gorm/hints/issues,5,3
+/go-gorm/hints/blob/master/hints.go,2,2
+/go-gorm/hints/blob/master/hints_test.go,2,2
+/go-gorm/hints/actions,1,1
+/go-gorm/hints/actions/runs/1686344315,1,1
+/go-gorm/hints/issues/20,1,1
+/go-gorm/hints/tags,1,1
+/go-gorm/hints/tree/dependabot/go_modules/gorm.io/gorm-1.22.5,1,1
