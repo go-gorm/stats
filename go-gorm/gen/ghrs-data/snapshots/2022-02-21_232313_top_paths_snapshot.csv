@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/go-gorm/gen,1432,665
+/go-gorm/gen/blob/master/README.ZH_CN.md,550,267
+/go-gorm/gen/issues,345,82
+/go-gorm/gen/tree/master/examples,199,64
+/go-gorm/gen/tree/master/examples/dal,116,38
+/go-gorm/gen/tree/master/examples/cmd,100,38
+/go-gorm/gen/tree/master/examples/dal/query,77,34
+/go-gorm/gen/tree/master/examples/cmd/gen,58,32
+/go-gorm/gen/tree/master/examples/biz,53,32
+/go-gorm/gen/tree/master/examples/dal/model,48,23
