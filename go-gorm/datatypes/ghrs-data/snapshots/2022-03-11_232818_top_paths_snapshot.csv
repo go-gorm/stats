@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/go-gorm/datatypes,1292,737
+/go-gorm/datatypes/blob/master/json.go,331,229
+/go-gorm/datatypes/blob/master/json_map.go,95,60
+/go-gorm/datatypes/issues,78,33
+/go-gorm/datatypes/blob/master/date.go,55,44
+/go-gorm/datatypes/blob/master/time.go,50,39
+/go-gorm/datatypes/blob/master/json_test.go,50,33
+/go-gorm/datatypes/blob/master/json_map_test.go,33,23
+/go-gorm/datatypes/tags,27,23
+/go-gorm/datatypes/pulls,26,12
