@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/go-gorm/postgres,704,472
+/go-gorm/postgres/issues,121,33
+/go-gorm/postgres/blob/master/postgres.go,98,73
+/go-gorm/postgres/tags,65,38
+/go-gorm/postgres/pulls,46,16
+/go-gorm/postgres/blob/master/migrator.go,39,31
+/go-gorm/postgres/blob/master/go.mod,38,34
+/go-gorm/postgres/search,29,9
+/go-gorm/postgres/issues/65,28,25
+/go-gorm/postgres/releases,24,18
