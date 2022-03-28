@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/go-gorm/clickhouse,520,273
+/go-gorm/clickhouse/issues,122,30
+/go-gorm/clickhouse/blob/master/clickhouse.go,42,30
+/go-gorm/clickhouse/pulls,29,10
+/go-gorm/clickhouse/blob/master/migrator.go,23,14
+/go-gorm/clickhouse/blob/master/create.go,16,13
+/go-gorm/clickhouse/blob/master/go.mod,14,9
+/go-gorm/clickhouse/issues/21,13,9
+/go-gorm/clickhouse/search,13,7
+/go-gorm/clickhouse/blob/master/create_test.go,12,5
