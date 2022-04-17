@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/go-gorm/gorm.io,386,295
+/go-gorm/gorm.io/issues,74,27
+/go-gorm/gorm.io/issues/155,69,64
+/go-gorm/gorm.io/search,37,12
+/go-gorm/gorm.io/tree/master/pages,34,28
+/go-gorm/gorm.io/pulls,17,7
+/go-gorm/gorm.io/blob/master/pages/docs/preload.md,13,12
+/go-gorm/gorm.io/blob/master/pages/ko_KR/docs/models.md,12,9
+/go-gorm/gorm.io/tree/master/scripts,11,11
+/go-gorm/gorm.io/tree/master/scaffolds,10,10
