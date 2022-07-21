@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/go-gorm/hints,100,61
+/go-gorm/hints/blob/master/hints.go,21,11
+/go-gorm/hints/blob/691f992833/index_hint.go,11,1
+/go-gorm/hints/blob/master/index_hint.go,10,7
+/go-gorm/hints/blob/master/hints_test.go,6,6
+/go-gorm/hints/blob/691f992833/hints_test.go,5,1
+/go-gorm/hints/blob/691f99283318c1bd23be867db9a960f3d3b0cdfa/exprs.go,4,1
+/go-gorm/hints/blob/master/exprs.go,3,3
+/go-gorm/hints/blob/master/go.mod,3,3
+/go-gorm/hints/blob/master/License,2,2
