@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/go-gorm/dbresolver,376,184
+/go-gorm/dbresolver/blob/master/dbresolver.go,28,17
+/go-gorm/dbresolver/issues,27,10
+/go-gorm/dbresolver/blob/master/resolver.go,21,10
+/go-gorm/dbresolver/blob/master/dbresolver_test.go,17,12
+/go-gorm/dbresolver/blob/master/database.go,13,11
+/go-gorm/dbresolver/blob/master/callbacks.go,12,5
+/go-gorm/dbresolver/blob/master/clauses.go,8,7
+/go-gorm/dbresolver/blob/master/go.mod,6,6
+/go-gorm/dbresolver/blob/master/docker-compose.yml,6,4
