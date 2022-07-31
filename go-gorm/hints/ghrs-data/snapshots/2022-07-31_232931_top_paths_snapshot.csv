@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/go-gorm/hints,104,58
+/go-gorm/hints/blob/master/hints.go,29,11
+/go-gorm/hints/pull/72,17,3
+/go-gorm/hints/blob/master/index_hint.go,13,9
+/go-gorm/hints/pull/72/files,12,3
+/go-gorm/hints/pulls,12,2
+/go-gorm/hints/blob/691f992833/index_hint.go,11,1
+/go-gorm/hints/blob/master/hints_test.go,8,5
+/go-gorm/hints/blob/691f99283318c1bd23be867db9a960f3d3b0cdfa/exprs.go,5,2
+/go-gorm/hints/blob/691f992833/hints_test.go,5,1
