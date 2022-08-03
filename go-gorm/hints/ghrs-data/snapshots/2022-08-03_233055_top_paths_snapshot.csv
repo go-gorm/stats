@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/go-gorm/hints,59,43
+/go-gorm/hints/pull/72,17,3
+/go-gorm/hints/blob/master/hints.go,14,5
+/go-gorm/hints/pull/72/files,12,3
+/go-gorm/hints/pulls,12,2
+/go-gorm/hints/blob/master/index_hint.go,4,3
+/go-gorm/hints/blob/master/hints_test.go,4,2
+/go-gorm/hints/actions,2,1
+/go-gorm/hints/compare,2,1
+/go-gorm/hints/compare/master...wangjiancn:hints:fix-hint-merge,2,1
