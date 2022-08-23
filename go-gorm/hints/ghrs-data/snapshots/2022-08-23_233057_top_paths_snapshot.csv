@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/go-gorm/hints,61,44
+/go-gorm/hints/blob/master/hints.go,13,6
+/go-gorm/hints/blob/master/exprs.go,8,4
+/go-gorm/hints/issues,7,5
+/go-gorm/hints/blob/master/hints_test.go,6,4
+/go-gorm/hints/blob/master/index_hint.go,5,5
+/go-gorm/hints/issues/73,4,4
+/go-gorm/hints/tags,4,3
+/go-gorm/hints/blob/master/go.mod,3,2
+/go-gorm/hints/blob/v1.0.1/go.mod,3,1
