@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/go-gorm/clickhouse,384,233
+/go-gorm/clickhouse/issues,33,18
+/go-gorm/clickhouse/blob/master/clickhouse.go,25,20
+/go-gorm/clickhouse/blob/master/migrator.go,11,8
+/go-gorm/clickhouse/blob/master/create.go,9,8
+/go-gorm/clickhouse/blob/master/docker-compose.yml,8,6
+/go-gorm/clickhouse/blob/master/go.mod,7,6
+/go-gorm/clickhouse/blob/master/update_test.go,7,5
+/go-gorm/clickhouse/commit/44f5337baef81e4188b399b3b36a01d5b8bbabdb,7,5
+/go-gorm/clickhouse/tags,7,4
