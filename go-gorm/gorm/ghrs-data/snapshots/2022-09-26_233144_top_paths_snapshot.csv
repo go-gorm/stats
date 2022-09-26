@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/go-gorm/gorm,9297,5808
+/go-gorm/gorm/issues,2017,845
+/go-gorm/gorm/search,1021,365
+/go-gorm/gorm/tags,508,214
+/go-gorm/gorm/stargazers,495,447
+/go-gorm/gorm/blob/master/logger/logger.go,473,320
+/go-gorm/gorm/blob/master/errors.go,440,350
+/go-gorm/gorm/issues/4037,435,346
+/go-gorm/gorm/pulls,326,162
+/go-gorm/gorm/tree/master/clause,282,200
