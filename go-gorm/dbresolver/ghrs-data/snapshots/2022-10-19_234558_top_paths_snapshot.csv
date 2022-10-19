@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/go-gorm/dbresolver,413,271
+/go-gorm/dbresolver/tags,45,31
+/go-gorm/dbresolver/blob/master/dbresolver.go,30,25
+/go-gorm/dbresolver/issues,28,14
+/go-gorm/dbresolver/blob/master/database.go,17,12
+/go-gorm/dbresolver/releases,16,14
+/go-gorm/dbresolver/blob/master/dbresolver_test.go,15,14
+/go-gorm/dbresolver/pulls,14,5
+/go-gorm/dbresolver/commit/28afa64a6325ab15bd7be258b4423ac90f4abd77,10,6
+/go-gorm/dbresolver/search,10,6
