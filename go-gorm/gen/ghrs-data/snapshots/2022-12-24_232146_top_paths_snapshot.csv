@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/go-gorm/gen,1147,603
+/go-gorm/gen/issues,224,78
+/go-gorm/gen/tree/master/examples,154,80
+/go-gorm/gen/tree/master/examples/cmd,61,40
+/go-gorm/gen/blob/master/examples/main.go,56,36
+/go-gorm/gen/search,53,18
+/go-gorm/gen/tree/master/examples/dal,50,33
+/go-gorm/gen/blob/master/examples/biz/query.go,49,33
+/go-gorm/gen/blob/master/examples/generate.sh,48,35
+/go-gorm/gen/tree/master/tools/gentool,45,30
