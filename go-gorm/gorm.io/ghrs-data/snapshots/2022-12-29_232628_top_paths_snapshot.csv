@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/go-gorm/gorm.io,243,179
+/go-gorm/gorm.io/issues/155,45,41
+/go-gorm/gorm.io/issues,27,19
+/go-gorm/gorm.io/issues/587,22,20
+/go-gorm/gorm.io/tree/master/pages,20,13
+/go-gorm/gorm.io/tree/master/scripts,10,7
+/go-gorm/gorm.io/blob/2be042a898ccfc9868072d729b571c7c3f859316/pages/docs/data_types.md,10,2
+/go-gorm/gorm.io/search,7,5
+/go-gorm/gorm.io/blob/master/pages/docs/preload.md,7,3
+/go-gorm/gorm.io/tags,6,6
