@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/go-gorm/hints,29,27
+/go-gorm/hints/blob/master/go.mod,5,2
+/go-gorm/hints/blob/master/hints.go,3,3
+/go-gorm/hints/blob/master/index_hint.go,3,1
+/go-gorm/hints/issues/73,3,1
+/go-gorm/hints/actions/runs/2621025254,1,1
+/go-gorm/hints/actions/runs/3271251170,1,1
+/go-gorm/hints/actions/runs/3271251197,1,1
+/go-gorm/hints/actions/runs/3375487764/workflow,1,1
+/go-gorm/hints/actions/workflows/ci.yml,1,1
