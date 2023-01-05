@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/go-gorm/sqlserver,101,82
+/go-gorm/sqlserver/blob/master/sqlserver.go,26,18
+/go-gorm/sqlserver/blob/master/create.go,8,7
+/go-gorm/sqlserver/blob/master/migrator.go,7,7
+/go-gorm/sqlserver/issues,6,5
+/go-gorm/sqlserver/issues/76,6,5
+/go-gorm/sqlserver/blob/master/go.mod,2,2
+/go-gorm/sqlserver/blob/master/License,2,2
+/go-gorm/sqlserver/blob/master/update.go,2,2
+/go-gorm/sqlserver/issues/73,2,2
