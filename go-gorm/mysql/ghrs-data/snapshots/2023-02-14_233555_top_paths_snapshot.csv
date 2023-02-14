@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/go-gorm/mysql,804,565
+/go-gorm/mysql/blob/master/mysql.go,110,88
+/go-gorm/mysql/tags,72,43
+/go-gorm/mysql/pull/104,33,15
+/go-gorm/mysql/pull/105,28,10
+/go-gorm/mysql/issues,27,23
+/go-gorm/mysql/issues/13,26,19
+/go-gorm/mysql/search,26,17
+/go-gorm/mysql/blob/master/go.mod,23,20
+/go-gorm/mysql/issues/15,23,19
